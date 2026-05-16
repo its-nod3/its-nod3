@@ -34,18 +34,36 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=fff"  />
+</div>
+
+###
+
+<p align="left">Sou estudante de Software Engineering, gestora de projetos e também editora de vídeo. Gosto de unir criatividade e tecnologia para transformar ideias em projetos bem estruturados, funcionais e visualmente marcantes.<br><br>Minha jornada na programação começou aos 12 anos de idade, e desde então venho explorando diferentes áreas da tecnologia, sempre buscando aprender, evoluir e criar experiências únicas. Ao longo dos anos, adquiri experiência tanto no desenvolvimento web quanto em sistemas, automações, bancos de dados e produção audiovisual.<br><br>💻 Tecnologias & Linguagens<br>- NextJS<br>- Lua<br>- JavaScript<br>- Java<br>- Python<br>- MySQL<br>- SQLite<br><br>🎬 Edição & Criatividade<br>Além da programação, também trabalho com edição de vídeo, utilizando criatividade, ritmo e atenção aos detalhes para produzir conteúdos dinâmicos e envolventes.<br><br>🚀 Sobre mim<br>Sou apaixonada por tecnologia, desenvolvimento de projetos e criação de experiências digitais. Gosto de liderar equipes, resolver problemas e transformar ideias em realidade através de código, design e criatividade.</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=fff"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=its-nod3&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/its-nod3/its-nod3/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://count.getloli.com/@:its-nod3?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:its-nod3?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img height="45" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0058.gif"  />
 </div>
 
 ###
